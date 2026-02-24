@@ -1,0 +1,153 @@
+{
+  "header": {
+    "brandName": "KardenTech",
+    "brandTagline": "Engineering",
+    "nav": {
+      "home": "Home",
+      "corporate": "Corporate",
+      "services": "Services",
+      "projects": "Projects",
+      "humanResources": "Human Resources",
+      "contact": "Contact"
+    }
+  },
+  "footer": {
+    "about": "KardenTech Engineering. We deliver livable spaces tailored to you. Contracting, Renovation, Electrical and Mechanical Works.",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "address": "Dirmil Mah. 6698 Sk. Küçük Sanayi Sitesi No:12/13 Yalıkavak Bodrum/MUĞLA",
+    "email": "info@kardentech.com",
+    "phone": "+90 (___) ___ __ __",
+    "copyright": "© 2026 KardenTech Engineering. All rights reserved."
+  },
+  "home": {
+    "sections": {
+      "projects": {
+        "subtitle": "High-standard, detail-driven delivery. A curated visual portfolio of selected work and sample renovation comparisons.",
+        "investorLabel": "Investor / Client:",
+        "subcontractorLabel": "Subcontractor:"
+      },
+      "humanResources": {
+        "lead": "Would you like to join the KardenTech Engineering team? We are looking for teammates who create value with us, are eager to learn, and take ownership.",
+        "infoTitle": "Application Note",
+        "infoText": "Upload your CV and add a short cover letter. Your application will be processed for delivery to the owner's email (email service integration is left as a placeholder in this demo).",
+        "supportedFormatsTitle": "Supported CV formats",
+        "supportedFormatsValue": ".pdf, .doc, .docx",
+        "formTitle": "Send CV",
+        "labels": {
+          "fullName": "Full Name",
+          "email": "Email",
+          "phone": "Phone",
+          "cv": "CV File",
+          "coverLetter": "Cover Letter"
+        },
+        "placeholders": {
+          "fullName": "Full name",
+          "email": "name@example.com",
+          "phone": "+90 (5xx) xxx xx xx",
+          "coverLetter": "Briefly introduce yourself and the position you are applying for."
+        },
+        "file": {
+          "choose": "Choose File",
+          "none": "No file chosen"
+        },
+        "buttons": {
+          "submit": "Submit Application",
+          "submitting": "Submitting..."
+        }
+      },
+      "contact": {
+        "lead": "Reach out to us — send a quick message via WhatsApp or contact us by email.",
+        "infoTitle": "Contact Information",
+        "labels": {
+          "address": "Address",
+          "email": "Email"
+        },
+        "whatsapp": {
+          "title": "Send a WhatsApp Message",
+          "instruction": "Fill out the form; your message will open in WhatsApp as a pre-filled text.",
+          "fields": {
+            "name": "Name",
+            "surname": "Surname",
+            "subject": "Subject",
+            "message": "Message"
+          },
+          "placeholders": {
+            "name": "Your name",
+            "surname": "Your surname",
+            "subject": "e.g., Project inquiry",
+            "message": "Write your message"
+          },
+          "button": "Open in WhatsApp",
+          "messageTemplate": {
+            "greeting": "Hello KardenTech Engineering,",
+            "name": "Name",
+            "surname": "Surname",
+            "subject": "Subject",
+            "message": "Message"
+          }
+        }
+      }
+    },
+    "hero": {
+      "badge": "KardenTech Engineering",
+      "headline": "We Create Livable Spaces Designed for You.",
+      "subtext": "With modern engineering, strong project management, and high quality standards, we build sustainable and livable solutions.",
+      "primaryCta": "Explore Our Projects",
+      "secondaryCta": "Get a Quote"
+    },
+    "corporate": {
+      "badge": "Corporate",
+      "title": "KardenTech Engineering",
+      "text": "With expertise in engineering and contracting, we create livable spaces tailored to your needs. We manage planning, design and execution under a single quality standard to deliver long-lasting results.",
+      "cta": "Read More",
+      "imageAlt": "Architectural project image"
+    },
+    "services": {
+      "badge": "Services",
+      "title": "End-to-End Engineering & Delivery",
+      "subtitle": "We provide our core services in a premium, clear and modular structure.",
+      "cardText": "A process and execution standard optimized to your project scale.",
+      "items": {
+        "contracting": "Contracting",
+        "renovation": "Decoration & Renovation",
+        "turnkey": "Turnkey Projects",
+        "designConsulting": "Design, Project & Consulting",
+        "electrical": "Electrical Installations",
+        "mechanical": "Mechanical Installations"
+      }
+    }
+  },
+  "corporatePage": {
+    "kicker": "Corporate",
+    "title": "KardenTech Engineering",
+    "subtitle": "We Create Livable Spaces Designed for You.",
+    "ctaContact": "Contact Us",
+    "ctaProjects": "View Projects",
+    "about": {
+      "title": "About Us",
+      "text": "KardenTech is a Bodrum-based engineering and contracting firm specializing in high-quality living spaces. We blend aesthetic design with robust engineering and disciplined on-site execution. Our goal is to deliver long-lasting solutions through solid planning, transparent communication and sustainable quality.",
+      "imageAlt": "Engineering blueprint and plans",
+      "ctaQuote": "Get a Quote",
+      "ctaBrowseProjects": "Explore Projects"
+    },
+    "competencies": {
+      "title": "Core Competencies",
+      "subtitle": "Comprehensive expertise across design and execution.",
+      "items": [
+        "Contracting",
+        "Decoration & Renovation",
+        "Turnkey Projects",
+        "Design, Project & Consulting",
+        "Electrical & Mechanical Solutions"
+      ]
+    },
+    "missionVision": {
+      "missionTitle": "Our Mission",
+      "missionText": "Deliver projects on time with the highest quality standards, prioritizing customer satisfaction.",
+      "visionTitle": "Our Vision",
+      "visionText": "To be the leading engineering and contracting brand in our region, known for innovative and sustainable solutions."
+    }
+  }
+}
+

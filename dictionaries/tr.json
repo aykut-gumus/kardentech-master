@@ -1,0 +1,153 @@
+{
+  "header": {
+    "brandName": "KardenTech",
+    "brandTagline": "Engineering",
+    "nav": {
+      "home": "Anasayfa",
+      "corporate": "Kurumsal",
+      "services": "Hizmetlerimiz",
+      "projects": "Projeler",
+      "humanResources": "İnsan Kaynakları",
+      "contact": "İletişim"
+    }
+  },
+  "footer": {
+    "about": "KardenTech Mühendislik. Size Uygun Yaşanabilir Mekanlar Sunuyoruz. Taahhüt, Renovasyon, Elektrik ve Mekanik Uygulamalar.",
+    "quickLinks": "Hızlı Bağlantılar",
+    "contact": "İletişim",
+    "address": "Dirmil Mah. 6698 Sk. Küçük Sanayi Sitesi No:12/13 Yalıkavak Bodrum/MUĞLA",
+    "email": "info@kardentech.com",
+    "phone": "+90 (___) ___ __ __",
+    "copyright": "© 2026 KardenTech Mühendislik. Tüm hakları saklıdır."
+  },
+  "home": {
+    "sections": {
+      "projects": {
+        "subtitle": "Yüksek standartlarda, detay odaklı uygulamalar. Seçili işlerden oluşan görsel portföyümüz ve örnek renovasyon karşılaştırmaları.",
+        "investorLabel": "Yatırımcı / İşveren:",
+        "subcontractorLabel": "Alt Yüklenici:"
+      },
+      "humanResources": {
+        "lead": "KardenTech Engineering ekibine katılmak ister misiniz? Projelerimizde birlikte değer üretecek, öğrenmeye açık ve sorumluluk alan ekip arkadaşları arıyoruz.",
+        "infoTitle": "Başvuru Notu",
+        "infoText": "CV dosyanızı yükleyin, kısa bir ön yazı ekleyin. Başvurunuz şirket sahibinin e-postasına iletilmek üzere işlenir (e-posta servisi entegrasyonu bu örnekte placeholder olarak bırakıldı).",
+        "supportedFormatsTitle": "Desteklenen CV formatları",
+        "supportedFormatsValue": ".pdf, .doc, .docx",
+        "formTitle": "CV Gönder",
+        "labels": {
+          "fullName": "Ad Soyad",
+          "email": "E-posta",
+          "phone": "Telefon",
+          "cv": "CV Dosyası",
+          "coverLetter": "Ön Yazı"
+        },
+        "placeholders": {
+          "fullName": "Ad Soyad",
+          "email": "ornek@eposta.com",
+          "phone": "+90 (5xx) xxx xx xx",
+          "coverLetter": "Kısaca kendinizden ve başvurduğunuz pozisyondan bahsedin."
+        },
+        "file": {
+          "choose": "Dosya Seç",
+          "none": "Dosya seçilmedi"
+        },
+        "buttons": {
+          "submit": "Başvuruyu Gönder",
+          "submitting": "Gönderiliyor..."
+        }
+      },
+      "contact": {
+        "lead": "Bize ulaşın — WhatsApp üzerinden hızlıca mesaj gönderebilir veya e-posta ile iletişime geçebilirsiniz.",
+        "infoTitle": "İletişim Bilgileri",
+        "labels": {
+          "address": "Adres",
+          "email": "E-posta"
+        },
+        "whatsapp": {
+          "title": "WhatsApp ile Mesaj Gönderin",
+          "instruction": "Formu doldurun; mesajınız WhatsApp'ta hazır metin olarak açılacaktır.",
+          "fields": {
+            "name": "Ad",
+            "surname": "Soyad",
+            "subject": "Konu",
+            "message": "Mesaj"
+          },
+          "placeholders": {
+            "name": "Adınız",
+            "surname": "Soyadınız",
+            "subject": "Örn: Proje teklifi",
+            "message": "Mesajınızı yazın"
+          },
+          "button": "WhatsApp'ta Aç",
+          "messageTemplate": {
+            "greeting": "Merhaba KardenTech Engineering,",
+            "name": "Ad",
+            "surname": "Soyad",
+            "subject": "Konu",
+            "message": "Mesaj"
+          }
+        }
+      }
+    },
+    "hero": {
+      "badge": "KardenTech Engineering",
+      "headline": "Size Uygun Yaşanabilir Mekanlar Sunuyoruz.",
+      "subtext": "Modern mühendislik yaklaşımı, güçlü proje yönetimi ve yüksek kalite standartlarıyla; sürdürülebilir ve yaşanabilir çözümler üretiyoruz.",
+      "primaryCta": "Projelerimizi İnceleyin",
+      "secondaryCta": "Teklif Alın"
+    },
+    "corporate": {
+      "badge": "Kurumsal",
+      "title": "KardenTech Mühendislik",
+      "text": "Mühendislik ve taahhüt alanındaki uzmanlığımızla, ihtiyacınıza uygun yaşanabilir mekanlar üretiriz. Planlama, tasarım ve uygulama süreçlerini tek bir kalite standardı altında yöneterek uzun ömürlü çözümler sunarız.",
+      "cta": "Devamını Oku",
+      "imageAlt": "Mimari proje görseli"
+    },
+    "services": {
+      "badge": "Hizmetlerimiz",
+      "title": "Uçtan Uca Mühendislik ve Uygulama",
+      "subtitle": "Core hizmetlerimizi premium, net ve modüler bir yapıda sunuyoruz.",
+      "cardText": "Proje ölçeğine göre optimize edilen süreç ve uygulama standardı.",
+      "items": {
+        "contracting": "Taahhüt",
+        "renovation": "Dekorasyon - Renovasyon",
+        "turnkey": "Anahtar Teslim Projeler",
+        "designConsulting": "Tasarım, Proje ve Danışmanlık",
+        "electrical": "Elektrik Uygulamaları",
+        "mechanical": "Mekanik Uygulamalar"
+      }
+    }
+  },
+  "corporatePage": {
+    "kicker": "Kurumsal",
+    "title": "KardenTech Mühendislik",
+    "subtitle": "Size Uygun Yaşanabilir Mekanlar Sunuyoruz.",
+    "ctaContact": "İletişime Geçin",
+    "ctaProjects": "Projeleri Görüntüle",
+    "about": {
+      "title": "Hakkımızda",
+      "text": "KardenTech, Bodrum merkezli bir mühendislik ve taahhüt firmasıdır. Yaşanabilir mekanlar üretirken; estetik tasarım anlayışını, güçlü mühendislik altyapısı ve sahadaki uygulama disiplinimizle bir araya getiririz. Projelerde hedefimiz; doğru planlama, şeffaf iletişim ve sürdürülebilir kalite ile uzun ömürlü çözümler sunmaktır.",
+      "imageAlt": "Mühendislik çizimi ve planlar",
+      "ctaQuote": "Teklif Alın",
+      "ctaBrowseProjects": "Projelerimizi İnceleyin"
+    },
+    "competencies": {
+      "title": "Faaliyet Alanlarımız",
+      "subtitle": "Tasarım ve uygulama süreçlerinde kapsamlı uzmanlık.",
+      "items": [
+        "Taahhüt (Contracting)",
+        "Dekorasyon - Renovasyon (Decoration - Renovation)",
+        "Anahtar Teslim Projeler (Turnkey Projects)",
+        "Tasarım, Proje ve Danışmanlık (Design, Project and Consulting)",
+        "Elektrik ve Mekanik Uygulamalar (Electrical and Mechanical Solutions)"
+      ]
+    },
+    "missionVision": {
+      "missionTitle": "Misyonumuz",
+      "missionText": "Müşteri memnuniyetini önceliklendirerek, en yüksek kalite standartlarında projeleri zamanında teslim etmek.",
+      "visionTitle": "Vizyonumuz",
+      "visionText": "Yenilikçi ve sürdürülebilir çözümlerle tanınan; bölgemizde lider mühendislik ve taahhüt markası olmak."
+    }
+  }
+}
+
